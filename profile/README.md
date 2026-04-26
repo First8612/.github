@@ -1,12 +1,11 @@
 # 8612 - Calvin Christian Robotics
 
-Welcome to the Calvin Christian Robotics GitHub organiation.
-
+Welcome to the Calvin Christian Robotics GitHub organization.
 
 
 
 ## Past Robots
-- [Plywoodbot (ongoing)](https://github.com/First8612/PlywoodBot)
+- [2026 Rebuilt](https://github.com/First8612/2026-Comp) ([Ri3D](https://github.com/First8612/2026-Ri3D))
 - [2025 Reefscape](https://github.com/First8612/Robot2025)
 - [2024 Crescendo](https://github.com/First8612/Robot2024)
 - [2023 Charged Up](https://github.com/First8612/Robot2023)
@@ -17,5 +16,4 @@ Welcome to the Calvin Christian Robotics GitHub organiation.
   - Suggested Lessons 1-9
 - [FRC: 0 to Autonomous (YoutTube)](https://www.youtube.com/channel/UCmJAoN-yI6AJDv7JJ3372yg)
 - [git](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
-  - Many things in programming you learn, and then may not use again. Git is NOT one of those tools. It is used everywhere. It isn't the same as GitHub. GitHub is a place online where you can store and share your git repositories, but you can learn git without GitHub. 
 - (FIRST Robotics Competition Control System)[https://docs.wpilib.org/en/stable/index.html] Documentation (WPILib)
