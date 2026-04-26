@@ -14,6 +14,6 @@ Welcome to the Calvin Christian Robotics GitHub organization.
 ## Learning Path
 - [Learn Java (Code Academy)](https://www.codecademy.com/learn/learn-java)
   - Suggested Lessons 1-9
-- [FRC: 0 to Autonomous (YoutTube)](https://www.youtube.com/channel/UCmJAoN-yI6AJDv7JJ3372yg)
+- [FRC: 0 to Autonomous (YouTube)](https://www.youtube.com/channel/UCmJAoN-yI6AJDv7JJ3372yg)
 - [git](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
 - (FIRST Robotics Competition Control System)[https://docs.wpilib.org/en/stable/index.html] Documentation (WPILib)
